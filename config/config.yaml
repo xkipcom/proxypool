@@ -1,5 +1,5 @@
 # your domain
-domain: pools1.herokuapp.com
+domain: your domain
 port:                 # default 12580
 
 # source list file
